@@ -48,7 +48,7 @@ For all the datasets, be sure to read and follow their license agreements, and c
 To train the model under the federated-by-dataset or federated-by-class scenarios:
 
 ```bash
-cd ./application/fedhar/
+cd fsar/application/fedhar/
 CUDA_VISIBLE_DEVICES=0 python main.py
 ```
 
