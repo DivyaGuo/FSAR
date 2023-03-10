@@ -12,7 +12,7 @@ Existing skeleton-based action recognition methods typically follow a centralize
 
 The local clients are optimized with our proposed Adaptive Topology Structure (ATS) and Multi-grain Knowledge Distillation (MKD) modules on private data and then perform the client-server collaborative learning iteratively: (i) clients train local models; (ii) clients upload parameters to server; (iii) server aggregates model parameters; (iv) clients download the aggregated models. Moreover, the ATS module extracts the intrinsic structure information of heterogeneous skeleton data, and the MKD module bridges the divergence between the clients and the server.
 
-![architecture](D:\研二下\github\figure\architecture.png)
+![architecture](.\figure\architecture.png)
 
 ## Requirements
 
